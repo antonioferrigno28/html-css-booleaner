@@ -83,3 +83,30 @@ h5 {
     margin-bottom: 8px;
     color: grey;
 }
+
+.recommended {
+    position: relative;
+    display: inline-block;
+  }
+
+  .footerpic{
+        margin-bottom: 20px;
+        width: 250px;
+        height: 200px;
+  }
+
+  #first-footer{
+    background-image: url(../img/monitor.jpg);
+}
+
+#second-footer{
+    background-image: url(../img/graph.jpg);
+}
+
+
+h6 {
+    font-size: 25px;
+    color: white;
+    margin: 0px;
+}
+  
