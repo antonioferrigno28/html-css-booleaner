@@ -71,7 +71,7 @@ h1 {
 }
 
 .unordered-list {
-    font-size: 18px;
+    font-size: 20px;
     padding-top: 10px;
     padding-bottom: 10px;
 }
@@ -79,6 +79,7 @@ h1 {
 table{
     margin-bottom: 40px;
     border-collapse: collapse;
+    font-size: 20px;
 }
 
 td{
@@ -129,4 +130,5 @@ h6 {
   
 .second-paragraph {
     margin-top: 10px;
+    font-size: 20px;
 }
